@@ -1,0 +1,13 @@
+{
+  "name": "eslint",
+  "app_id": "",
+  "gulpStartupTasks": [
+    "sass",
+    "watch",
+    "lint"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}

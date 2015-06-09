@@ -1,0 +1,8 @@
+{
+  "name": "semverBump",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-rc.5"
+  },
+  "version": "1.1.1"
+}
